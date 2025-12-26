@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## 📸 App Screenshot
+
+![Weather App](assets/screenshots/weather_app.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
