@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## 📸 App Screenshot
 
-![Weather App](assets/screenshots/weather_app.png)
+![Weather App](assets/screenshots/weather_app.png.jpeg)
 
 
 ## Getting Started
